@@ -6,7 +6,7 @@
 
 ### 🛠  Descrição
 
-</br>
+</br> 
 
 O projeto tem como objetivo consumir dados da api do gitHub, utiliziando React Query, que traz uma melhor abordagem na busca, no armazenamento em cache, na sincronização e a atualização do estado do servidor.
 
